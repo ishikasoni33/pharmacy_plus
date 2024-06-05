@@ -1,0 +1,1 @@
+SELECT med_name FROM product;
